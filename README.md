@@ -1,4 +1,5 @@
 # Facebook-Clone
 
-UI clone do Facebook
-UI clone do Facebook
+UI clone Facebook
+
+Clone Facebook com intuito de estudar css.
